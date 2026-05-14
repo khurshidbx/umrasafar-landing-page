@@ -1,0 +1,313 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - alert [ref=e4]
+    - generic [ref=e5]:
+      - navigation [ref=e6]:
+        - generic [ref=e7]:
+          - link "🕌 UmraSafar" [ref=e8] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e9]:
+            - link "Imkoniyatlar" [ref=e10] [cursor=pointer]:
+              - /url: "#features"
+            - link "Qanday ishlaydi" [ref=e11] [cursor=pointer]:
+              - /url: "#how"
+            - link "Narxlar" [ref=e12] [cursor=pointer]:
+              - /url: "#pricing"
+            - link "Kontaktlar" [ref=e13] [cursor=pointer]:
+              - /url: "#contact"
+          - generic [ref=e14]:
+            - combobox [ref=e15] [cursor=pointer]:
+              - option "🇺🇿 UZ" [selected]
+              - option "🇷🇺 RU"
+              - option "🇬🇧 EN"
+            - link "📞 +998 90 123 45 67" [ref=e16] [cursor=pointer]:
+              - /url: tel:+998901234567
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: Umra safarlarini boshqaring
+          - heading "Umra safarlarini professional boshqaring" [level=1] [ref=e21]
+          - paragraph [ref=e22]: Ziyoratchilar, paketlar, to'lovlar va mehmonxonalar — barchasi bitta tizimda.
+          - generic [ref=e23]:
+            - link "Demo so'rash" [ref=e24] [cursor=pointer]:
+              - /url: "#cta"
+            - link "Kontaktlar" [ref=e25] [cursor=pointer]:
+              - /url: "#contact"
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - generic [ref=e29]: Boshqaruv paneli
+            - generic [ref=e30]: ● Live
+          - generic [ref=e31]:
+            - generic [ref=e32]: 👥 124 Ziyoratchi
+            - generic [ref=e33]: 📦 8 Paket
+            - generic [ref=e34]: ✓ 98%
+          - generic [ref=e35]:
+            - generic [ref=e36]: Oylik ziyoratchilar
+            - generic [ref=e44]:
+              - generic [ref=e45]: Yan
+              - generic [ref=e46]: Fev
+              - generic [ref=e47]: Mar
+              - generic [ref=e48]: Apr
+              - generic [ref=e49]: May
+              - generic [ref=e50]: Iyn
+          - generic [ref=e51]:
+            - generic [ref=e52]: Oxirgi to'lovlar
+            - generic [ref=e53]:
+              - generic [ref=e54]:
+                - generic [ref=e55]:
+                  - generic [ref=e56]: A
+                  - generic [ref=e57]: Aliyev Bobur
+                - generic [ref=e58]:
+                  - generic [ref=e59]: $2,400
+                  - generic [ref=e60]: To'langan
+              - generic [ref=e61]:
+                - generic [ref=e62]:
+                  - generic [ref=e63]: "Y"
+                  - generic [ref=e64]: Yusupova Nilufar
+                - generic [ref=e65]:
+                  - generic [ref=e66]: $1,800
+                  - generic [ref=e67]: Kutilmoqda
+              - generic [ref=e68]:
+                - generic [ref=e69]:
+                  - generic [ref=e70]: K
+                  - generic [ref=e71]: Karimov Jasur
+                - generic [ref=e72]:
+                  - generic [ref=e73]: $3,200
+                  - generic [ref=e74]: To'langan
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - heading "Tizim ko'rinishi" [level=2] [ref=e78]
+          - paragraph [ref=e79]: Real interfeys va funksiyalar bilan tanishing
+        - generic [ref=e80]:
+          - generic [ref=e85]: app.umrasafar.uz
+          - generic [ref=e86]:
+            - generic [ref=e89]:
+              - generic [ref=e90]: 📊
+              - generic [ref=e91]: Boshqaruv paneli
+              - generic [ref=e92]: Barcha statistika bir joyda
+            - generic [ref=e95]:
+              - generic [ref=e96]: 👥
+              - generic [ref=e97]: Ziyoratchilar ro'yxati
+              - generic [ref=e98]: Profillar va hujjatlar
+            - generic [ref=e101]:
+              - generic [ref=e102]: 📦
+              - generic [ref=e103]: Paketlar boshqaruvi
+              - generic [ref=e104]: Takliflar va narxlar
+            - generic [ref=e107]:
+              - generic [ref=e108]: 💳
+              - generic [ref=e109]: To'lovlar tizimi
+              - generic [ref=e110]: Qarz va balanslar
+            - button [ref=e111] [cursor=pointer]:
+              - img [ref=e112]
+            - button [ref=e114] [cursor=pointer]:
+              - img [ref=e115]
+          - generic [ref=e117]:
+            - button [ref=e118] [cursor=pointer]
+            - button [ref=e119] [cursor=pointer]
+            - button [ref=e120] [cursor=pointer]
+            - button [ref=e121] [cursor=pointer]
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e126]: "0"
+          - generic [ref=e127]: Faol agentlik
+        - generic [ref=e128]:
+          - generic [ref=e129]: "0"
+          - generic [ref=e130]: Ziyoratchi boshqarildi
+        - generic [ref=e131]:
+          - generic [ref=e132]: "0"
+          - generic [ref=e133]: Mijozlar mamnuniyati
+        - generic [ref=e134]:
+          - generic [ref=e135]: "0"
+          - generic [ref=e136]: Texnik qo'llab-quvvatlash
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - heading "Barcha imkoniyatlar" [level=2] [ref=e140]
+          - paragraph [ref=e141]: Tizimimiz sizga nima beradi
+        - generic [ref=e142]:
+          - generic [ref=e143]:
+            - generic [ref=e144]: 👥
+            - heading "Ziyoratchilar bazasi" [level=3] [ref=e145]
+            - paragraph [ref=e146]: Har bir profil, hujjat va to'lov tarixi bir joyda.
+          - generic [ref=e147]:
+            - generic [ref=e148]: 📦
+            - heading "Paket boshqaruvi" [level=3] [ref=e149]
+            - paragraph [ref=e150]: Turli xil paketlar va maxsus takliflar mijozlar uchun.
+          - generic [ref=e151]:
+            - generic [ref=e152]: 🏨
+            - heading "Mehmonxona taqsimoti" [level=3] [ref=e153]
+            - paragraph [ref=e154]: Makka va Madina xonalari real vaqtda ko'rsatiladi.
+          - generic [ref=e155]:
+            - generic [ref=e156]: 💳
+            - heading "To'lov va hisoblar" [level=3] [ref=e157]
+            - paragraph [ref=e158]: Qarz, balans va to'lovlar bir joyda nazorat qilinadi.
+          - generic [ref=e159]:
+            - generic [ref=e160]: 📄
+            - heading "Hujjatlar va vizalar" [level=3] [ref=e161]
+            - paragraph [ref=e162]: Passport, viza va hujjatlarni xavfsiz saqlang.
+          - generic [ref=e163]:
+            - generic [ref=e164]: 📊
+            - heading "Hisobotlar va tahlil" [level=3] [ref=e165]
+            - paragraph [ref=e166]: Daromad va statistika batafsil taqdim etiladi.
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - heading "Qanday ishlaydi" [level=2] [ref=e170]
+          - paragraph [ref=e171]: Uch oddiy qadamda ishni boshlang
+        - generic [ref=e172]:
+          - generic [ref=e174]:
+            - generic [ref=e175]: "01"
+            - heading "Ro'yxatdan o'ting" [level=3] [ref=e176]
+            - paragraph [ref=e177]: 5 daqiqada agentligingizni qo'shing, hech qanday murakkab qadamsiz.
+          - generic [ref=e178]:
+            - generic [ref=e179]: "02"
+            - heading "Ma'lumot kiriting" [level=3] [ref=e180]
+            - paragraph [ref=e181]: Paketlar, ziyoratchilar va mehmonxonalarni osongina sozlang.
+          - generic [ref=e182]:
+            - generic [ref=e183]: "03"
+            - heading "Boshqarib boring" [level=3] [ref=e184]
+            - paragraph [ref=e185]: Avtomatik hisobotlar va real vaqt nazorat.
+      - generic [ref=e187]:
+        - generic [ref=e188]:
+          - heading "Narxlar" [level=2] [ref=e189]
+          - paragraph [ref=e190]: Sizning biznesingizga mos tarif tanlang
+        - generic [ref=e191]:
+          - generic [ref=e192]:
+            - heading "Starter" [level=3] [ref=e193]
+            - generic [ref=e194]:
+              - generic [ref=e195]: $29
+              - generic [ref=e196]: /oy
+            - paragraph [ref=e197]: Kichik agentliklar uchun
+            - list [ref=e198]:
+              - listitem [ref=e199]:
+                - img [ref=e200]
+                - text: 100 ziyoratchi
+              - listitem [ref=e202]:
+                - img [ref=e203]
+                - text: 3 paket
+              - listitem [ref=e205]:
+                - img [ref=e206]
+                - text: Asosiy hisobotlar
+              - listitem [ref=e208]:
+                - img [ref=e209]
+                - text: Email qo'llab-quvvatlash
+            - link "Boshlash" [ref=e211] [cursor=pointer]:
+              - /url: "#cta"
+          - generic [ref=e212]:
+            - generic [ref=e213]: Eng mashhur
+            - heading "Professional" [level=3] [ref=e214]
+            - generic [ref=e215]:
+              - generic [ref=e216]: $79
+              - generic [ref=e217]: /oy
+            - paragraph [ref=e218]: O'rta va katta agentliklar uchun
+            - list [ref=e219]:
+              - listitem [ref=e220]:
+                - img [ref=e221]
+                - text: Cheksiz ziyoratchi
+              - listitem [ref=e223]:
+                - img [ref=e224]
+                - text: Cheksiz paket
+              - listitem [ref=e226]:
+                - img [ref=e227]
+                - text: To'liq hisobotlar
+              - listitem [ref=e229]:
+                - img [ref=e230]
+                - text: Telegram integratsiya
+              - listitem [ref=e232]:
+                - img [ref=e233]
+                - text: 24/7 qo'llab-quvvatlash
+              - listitem [ref=e235]:
+                - img [ref=e236]
+                - text: API kirish
+            - link "Boshlash" [ref=e238] [cursor=pointer]:
+              - /url: "#cta"
+          - generic [ref=e239]:
+            - heading "Enterprise" [level=3] [ref=e240]
+            - generic [ref=e241]:
+              - generic [ref=e242]: $199
+              - generic [ref=e243]: /oy
+            - paragraph [ref=e244]: Katta korporativ agentliklar
+            - list [ref=e245]:
+              - listitem [ref=e246]:
+                - img [ref=e247]
+                - text: Hamma Professional
+              - listitem [ref=e249]:
+                - img [ref=e250]
+                - text: Maxsus integratsiya
+              - listitem [ref=e252]:
+                - img [ref=e253]
+                - text: Shaxsiy menejir
+              - listitem [ref=e255]:
+                - img [ref=e256]
+                - text: SLA kafolat
+              - listitem [ref=e258]:
+                - img [ref=e259]
+                - text: Maxsus o'quv
+            - link "Boshlash" [ref=e261] [cursor=pointer]:
+              - /url: "#cta"
+      - generic [ref=e263]:
+        - generic [ref=e264]:
+          - heading "Bugun boshlang" [level=2] [ref=e265]
+          - paragraph [ref=e266]: Dastlabki 14 kun bepul. Kredit karta kerak emas.
+          - generic [ref=e267]:
+            - generic [ref=e268]:
+              - img [ref=e269]
+              - text: Kredit karta kerak emas
+            - generic [ref=e271]:
+              - img [ref=e272]
+              - text: 14 kun bepul sinov
+            - generic [ref=e274]:
+              - img [ref=e275]
+              - text: 24/7 qo'llab-quvvatlash
+        - generic [ref=e278]:
+          - textbox "Ismingiz" [ref=e279]
+          - textbox "Telefon raqam" [ref=e280]
+          - textbox "Email (ixtiyoriy)" [ref=e281]
+          - button "Yuborish" [ref=e282] [cursor=pointer]:
+            - generic [ref=e283]: Yuborish
+      - contentinfo [ref=e284]:
+        - generic [ref=e285]:
+          - generic [ref=e286]:
+            - generic [ref=e287]:
+              - generic [ref=e288]: 🕌 UmraSafar
+              - paragraph [ref=e289]: Umra safarlarini boshqarish uchun professional CRM tizimi.
+              - generic [ref=e290]:
+                - link "Telegram" [ref=e291] [cursor=pointer]:
+                  - /url: https://t.me/umrasafar
+                  - img [ref=e292]
+                - link "Instagram" [ref=e294] [cursor=pointer]:
+                  - /url: https://instagram.com/umrasafar
+                  - img [ref=e295]
+            - generic [ref=e297]:
+              - heading "Havolalar" [level=4] [ref=e298]
+              - list [ref=e299]:
+                - listitem [ref=e300]:
+                  - link "Imkoniyatlar" [ref=e301] [cursor=pointer]:
+                    - /url: "#features"
+                - listitem [ref=e302]:
+                  - link "Narxlar" [ref=e303] [cursor=pointer]:
+                    - /url: "#pricing"
+                - listitem [ref=e304]:
+                  - link "Yordam" [ref=e305] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e306]:
+                  - link "Kontaktlar" [ref=e307] [cursor=pointer]:
+                    - /url: "#contact"
+            - generic [ref=e308]:
+              - heading "Kontakt" [level=4] [ref=e309]
+              - list [ref=e310]:
+                - listitem [ref=e311]:
+                  - link "📞 +998 90 123 45 67" [ref=e312] [cursor=pointer]:
+                    - /url: tel:+998901234567
+                - listitem [ref=e313]:
+                  - link "✉️ info@umrasafar.uz" [ref=e314] [cursor=pointer]:
+                    - /url: mailto:info@umrasafar.uz
+                - listitem [ref=e315]: 📍 Toshkent, O'zbekiston
+          - generic [ref=e316]: © 2025 UmraSafar. Barcha huquqlar himoyalangan.
+  - generic:
+    - img
+  - generic [ref=e317]:
+    - button "Toggle Nuxt DevTools" [ref=e318] [cursor=pointer]:
+      - img [ref=e319]
+    - generic "Page load time" [ref=e322]:
+      - generic [ref=e323]: "8"
+      - generic [ref=e324]: ms
+    - button "Toggle Component Inspector" [ref=e326] [cursor=pointer]:
+      - img [ref=e327]
